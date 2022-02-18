@@ -1,2 +1,2 @@
 # examplerep
-a simple example web application
+a simple example web application for second branch
